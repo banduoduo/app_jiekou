@@ -1,0 +1,6 @@
+add_float:
+- [0.2, 0.4, 0.6]
+- [99.5,0.5, 100]
+ids:
+- 'float_little'
+- 'float_大数'

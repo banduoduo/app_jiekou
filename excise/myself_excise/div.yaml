@@ -1,0 +1,15 @@
+div_int:
+  - [ 20,2,10 ]
+  - [ 2000,2000,1 ]
+
+ids:
+  - 'div_int_little'
+  - 'div_int_bit'
+
+div_float:
+  - [ 200,0.2,1000 ]
+  - [ 2,0,Fsale ]
+
+ids2:
+  - 'div_float'
+  - '除数为0'
